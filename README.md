@@ -24,4 +24,4 @@ Assignments and projects from the AMPBA programme at ISB.
 
 # Tableau
 * LoD and table calculations.
-* A variety of plots with trendlines and annotations. 
+* A variety of plots with trendlines and annotations, including geospatial data. 
