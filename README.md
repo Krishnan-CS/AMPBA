@@ -22,6 +22,21 @@ Assignments and projects from the AMPBA programme at ISB.
 * Linear programming using Analytics solver in Excel - Merton Trucks case study.
 * Hub assignment problem using PuLP library in Python.
 
+# Shopping Card Recsys - Kaggle competition
+* Recommendation system for item recommendations in a shopping cart.
+* Strategies for candidate generation:
+  * User purchase history.
+  * Frequency of SKUs.
+  * Periodicity of SKU purchase.
+  * Seasonal trends.
+  * Co-occurrence between SKUs, both global and user-specific.
+  * Surprise recommendations.
+* Ranking candidates:
+  * Member clusters: Frequent buyers, explorers, new users, repetitive buyers.
+  * Apply weights to candidates depending on the member cluster.
+  * For example, for repetitive buyers, assign more weights to candidates from purchase history and periodicity.
+  * For explorers, give preference to seasonal trends, surprise suggestions. 
+
 # Tableau
 * LoD and table calculations.
 * A variety of plots with trendlines and annotations, including geospatial data. 
