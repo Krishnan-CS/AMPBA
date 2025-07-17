@@ -37,6 +37,10 @@ Assignments and projects from the AMPBA programme at ISB.
   * For example, for repetitive buyers, assign more weights to candidates from purchase history and periodicity.
   * For explorers, give preference to seasonal trends, surprise suggestions. 
 
+# Supervised Learning
+* Image classification (letters A-Z) using LDA, K-NN, Parzen window, Perceptron, Logistic regression.
+* Classification of mushrooms using Decision Trees.
+  
 # Tableau
 * LoD and table calculations.
 * A variety of plots with trendlines and annotations, including geospatial data. 
