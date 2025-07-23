@@ -22,7 +22,7 @@ Assignments and projects from the AMPBA programme at ISB.
 * Linear programming using Analytics solver in Excel - Merton Trucks case study.
 * Hub assignment problem using PuLP library in Python.
 
-# 'Did you forget?' Shopping Cart Recommendation System
+# Kaggle Competition: 'Did you forget?' Shopping Cart Recommendation System
 * Recommendation system for item recommendations in a shopping cart.
 * Strategies for candidate generation:
   * User purchase history.
