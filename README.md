@@ -16,13 +16,13 @@ Assignments and projects from the AMPBA programme at ISB.
 
 # Movie Recommendation System - PySpark
 * 100k dataset from https://grouplens.org/datasets/movielens/
-* A simple version of a movie recommendation system using User-User cosine similarity.
+* Movie recommendation using item-item collaborative filtering with cosine similarity using Spark.
 
 # Optimization
 * Linear programming using Analytics solver in Excel - Merton Trucks case study.
 * Hub assignment problem using PuLP library in Python.
 
-# Shopping Card Recsys - Kaggle competition
+# 'Did you forget?' Shopping Cart Recommendation System
 * Recommendation system for item recommendations in a shopping cart.
 * Strategies for candidate generation:
   * User purchase history.
@@ -32,7 +32,7 @@ Assignments and projects from the AMPBA programme at ISB.
   * Co-occurrence between SKUs, both global and user-specific.
   * Surprise recommendations.
 * Ranking candidates:
-  * Member clusters: Frequent buyers, explorers, new users, repetitive buyers.
+  * Member clusters: Explorers, new users, repetitive buyers.
   * Apply weights to candidates depending on the member cluster.
   * For example, for repetitive buyers, assign more weights to candidates from purchase history and periodicity.
   * For explorers, give preference to seasonal trends, surprise suggestions. 
